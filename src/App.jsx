@@ -6,7 +6,7 @@ const data = {
     " B.Tech CSE (Data Science) student interested in data science, web development and problem solving. Looking for internships and projects.",
   college: "Galgotia College of Engineering And Technology, Greater Noida",
   resume: "/resume.pdf",
-  photo:"/photo.jpg",
+  photo:"",
   phone:"+91 7275941775",
 
   links: {
